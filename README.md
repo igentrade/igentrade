@@ -17,6 +17,7 @@
 | [消費税計算機](https://github.com/igentrade/igentrade-shohizei) | 税込⇔税抜（10% / 8%） | [開く](https://igentrade.github.io/igentrade-shohizei/) |
 | [為替・概算コスト](https://github.com/igentrade/igentrade-kawase) | 為替換算とコスト概算 | [開く](https://igentrade.github.io/igentrade-kawase/) |
 | [営業日計算機](https://github.com/igentrade/igentrade-eigyobi) | 営業日の加算・日数 | [開く](https://igentrade.github.io/igentrade-eigyobi/) |
+| [簡易出納帳](https://github.com/igentrade/igentrade-suitoubo) | 収支記録・月次集計・CSV | [開く](https://igentrade.github.io/igentrade-suitoubo/) |
 
 一覧ページ: [https://igentrade.github.io/igentrade-tools/](https://igentrade.github.io/igentrade-tools/)
 
