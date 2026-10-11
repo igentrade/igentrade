@@ -10,14 +10,42 @@
 中小企業の日常業務向けに、ブラウザだけで使える無料ツールをいくつか公開しています。  
 登録不要・計算は端末内で完結します。印刷物に当方の社名は通常出ません。
 
+##### 帳票・書類
+
 | ツール | 内容 | 使う |
 | --- | --- | --- |
-| [見積書・請求書](https://github.com/igentrade/igentrade-seikyu) | 見積・請求の作成 | [開く](https://igentrade.github.io/igentrade-seikyu/) |
-| [納品書・領収書](https://github.com/igentrade/igentrade-nohin-ryoshu) | 納品・領収の作成 | [開く](https://igentrade.github.io/igentrade-nohin-ryoshu/) |
+| [発注書メーカー](https://github.com/igentrade/igentrade-tools) | 発注書の作成・印刷 | [開く](https://igentrade.github.io/igentrade-tools/hatchu/) |
+| [見積書・請求書メーカー](https://github.com/igentrade/igentrade-seikyu) | 見積・請求の作成 | [開く](https://igentrade.github.io/igentrade-seikyu/) |
+| [納品書・領収書メーカー](https://github.com/igentrade/igentrade-nohin-ryoshu) | 納品・領収の作成 | [開く](https://igentrade.github.io/igentrade-nohin-ryoshu/) |
+| [印鑑・角印メーカー](https://github.com/igentrade/igentrade-tools) | 角印・丸印の画像作成 | [開く](https://igentrade.github.io/igentrade-tools/hanko/) |
+
+##### 貿易・物流
+
+| ツール | 内容 | 使う |
+| --- | --- | --- |
+| [輸入関税・消費税 概算計算機](https://github.com/igentrade/igentrade-tools) | 関税・輸入消費税と総輸入コストの概算 | [開く](https://igentrade.github.io/igentrade-tools/kanzei/) |
+| [インコタームズ2020 早見表](https://github.com/igentrade/igentrade-tools) | 11 規則の費用負担・危険移転 | [開く](https://igentrade.github.io/igentrade-tools/incoterms/) |
+| [インボイス・パッキングリストメーカー](https://github.com/igentrade/igentrade-tools) | 英文 Commercial Invoice / Packing List | [開く](https://igentrade.github.io/igentrade-tools/trade/) |
+| [容積・重量計算機](https://github.com/igentrade/igentrade-tools) | CBM・容積重量の計算 | [開く](https://igentrade.github.io/igentrade-tools/volume/) |
+| [宛名・荷札メーカー](https://github.com/igentrade/igentrade-tools) | 宛名・荷札・Shipping Mark | [開く](https://igentrade.github.io/igentrade-tools/labels/) |
+
+##### お金・計算
+
+| ツール | 内容 | 使う |
+| --- | --- | --- |
 | [消費税計算機](https://github.com/igentrade/igentrade-shohizei) | 税込⇔税抜（10% / 8%） | [開く](https://igentrade.github.io/igentrade-shohizei/) |
-| [為替・概算コスト](https://github.com/igentrade/igentrade-kawase) | 為替換算とコスト概算 | [開く](https://igentrade.github.io/igentrade-kawase/) |
+| [為替換算・概算コスト](https://github.com/igentrade/igentrade-kawase) | 為替換算とコスト概算 | [開く](https://igentrade.github.io/igentrade-kawase/) |
+| [金銭出納帳（エクセル無料）](https://github.com/igentrade/igentrade-suitoubo) | ブラウザ版の簡易出納帳・CSV は Excel 向け | [開く](https://igentrade.github.io/igentrade-suitoubo/) |
+| [入金・支払予定表](https://github.com/igentrade/igentrade-tools) | 入金・支払の期日管理 | [開く](https://igentrade.github.io/igentrade-tools/payments/) |
+
+##### 事務・便利
+
+| ツール | 内容 | 使う |
+| --- | --- | --- |
 | [営業日計算機](https://github.com/igentrade/igentrade-eigyobi) | 営業日の加算・日数 | [開く](https://igentrade.github.io/igentrade-eigyobi/) |
-| [金銭出納帳（エクセル無料）](https://github.com/igentrade/igentrade-suitoubo) | 金銭出納帳をブラウザで無料・CSVはExcel向け | [開く](https://igentrade.github.io/igentrade-suitoubo/) |
+| [PDF ページ整理](https://github.com/igentrade/igentrade-tools) | 結合・抽出・並べ替え・回転 | [開く](https://igentrade.github.io/igentrade-tools/pdf/) |
+| [画像圧縮・変換](https://github.com/igentrade/igentrade-tools) | 縮小と PNG / JPEG / WebP 変換 | [開く](https://igentrade.github.io/igentrade-tools/images/) |
+| [QR コードメーカー](https://github.com/igentrade/igentrade-tools) | URL・テキスト・連絡先の QR | [開く](https://igentrade.github.io/igentrade-tools/qr/) |
 
 一覧ページ: [https://igentrade.github.io/igentrade-tools/](https://igentrade.github.io/igentrade-tools/)
 
